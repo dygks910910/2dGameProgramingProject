@@ -1,6 +1,11 @@
-Tue Nov 24 23:26:38 2015 +0900 3차발표당시파일
-Sat Nov 21 20:59:29 2015 +0900 bgm추가
-Sun Nov 15 16:00:16 2015 +0900 number작업
-Mon Nov 9 10:32:43 2015 +0900 리소스작업 baseTower
-Tue Oct 27 18:08:20 2015 +0900 zz
-Tue Sep 29 23:28:56 2015 +0900 Image
+tfomat:Wed Dec 2 17:14:01 2015 +0900 add SCORE
+tfomat:Wed Dec 2 14:14:18 2015 +0900 여러가지 리소스 추가
+tfomat:Tue Dec 1 20:54:11 2015 +0900 타워추가
+tfomat:Fri Nov 27 16:39:30 2015 +0900 texture
+tfomat:Thu Nov 26 15:51:22 2015 +0900 Texture작업
+tfomat:Tue Nov 24 23:26:38 2015 +0900 3차발표당시파일
+tfomat:Sat Nov 21 20:59:29 2015 +0900 bgm추가
+tfomat:Sun Nov 15 16:00:16 2015 +0900 number작업
+tfomat:Mon Nov 9 10:32:43 2015 +0900 리소스작업 baseTower
+tfomat:Tue Oct 27 18:08:20 2015 +0900 zz
+tfomat:Tue Sep 29 23:28:56 2015 +0900 Image
